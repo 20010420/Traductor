@@ -59,9 +59,9 @@ public class MainActivity extends AppCompatActivity {
         @Override
         public Fragment createFragment(int position) {
             switch (position){
-                case 0:return new english_P();
-                case 1:return new france_P();
-                default:return new esp_P();
+                case 0:return new esp_P();
+                case 1:return new english_P();
+                default:return new france_P();
             }
         }
 
