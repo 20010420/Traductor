@@ -57,7 +57,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textView12"
+        android:id="@+id/textoTraduccion"
         android:layout_width="351dp"
         android:layout_height="77dp"
         android:layout_marginTop="340dp"
@@ -67,16 +67,18 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/button4"
+    <ImageButton
+        android:id="@+id/btnHablar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="536dp"
-        android:fontFamily="@font/secular_one"
-        android:text="translate"
-        app:icon="@drawable/traductor_inco"
+        android:layout_marginBottom="60dp"
+        android:backgroundTint="#00FFFFFF"
+        android:contentDescription="@string/app_name"
+        android:onClick="btnHablar"
+        android:src="@drawable/voz__128_"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintStart_toStartOf="parent" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

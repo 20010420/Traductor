@@ -29,7 +29,9 @@ android {
 
 dependencies {
 
-    implementation 'androidx.appcompat:appcompat:1.4.2'
+    implementation 'com.google.mlkit:translate:17.0.1'
+
+    implementation 'androidx.appcompat:appcompat:1.4.2' //libreria de google para la traduccion en linea
     implementation 'com.google.android.material:material:1.6.1'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     testImplementation 'junit:junit:4.13.2'

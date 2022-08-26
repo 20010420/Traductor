@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor/app/src/main/res/layout/fragment_english__p.xml" value="0.25" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor/app/src/main/res/layout/fragment_english__p.xml" value="0.18" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor/app/src/main/res/layout/fragment_esp__p.xml" value="0.25" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor/app/src/main/res/layout/fragment_esp__p2.xml" value="0.25" />
         <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor/app/src/main/res/layout/fragment_france__p.xml" value="0.33" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor1/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor1/app/src/main/res/layout/fragment_english__p.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor1/app/src/main/res/layout/fragment_esp__p2.xml" value="0.33" />
+        <entry key="..\:/Users/usuario/AndroidStudioProjects/Traductor1/app/src/main/res/layout/fragment_france__p.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
